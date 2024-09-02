@@ -75,6 +75,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "x-non-divisible-subset", "x
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00-default", "0-default\00-default.csproj", "{92E3096F-9FDA-4603-8934-FD555478E438}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27-the-hurdle-race", "27-the-hurdle-race\27-the-hurdle-race.csproj", "{26ACCA6B-F5AE-4292-ADAD-AA932BF62519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28-designer-pdf-viewer", "28-designer-pdf-viewer\28-designer-pdf-viewer.csproj", "{3C41D744-4D86-4DD9-830F-9CE3AFE82337}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +229,14 @@ Global
 		{92E3096F-9FDA-4603-8934-FD555478E438}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92E3096F-9FDA-4603-8934-FD555478E438}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92E3096F-9FDA-4603-8934-FD555478E438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26ACCA6B-F5AE-4292-ADAD-AA932BF62519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26ACCA6B-F5AE-4292-ADAD-AA932BF62519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26ACCA6B-F5AE-4292-ADAD-AA932BF62519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26ACCA6B-F5AE-4292-ADAD-AA932BF62519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C41D744-4D86-4DD9-830F-9CE3AFE82337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C41D744-4D86-4DD9-830F-9CE3AFE82337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C41D744-4D86-4DD9-830F-9CE3AFE82337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C41D744-4D86-4DD9-830F-9CE3AFE82337}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
